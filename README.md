@@ -1,2 +1,3 @@
-# anticorruption-lsf
-Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns
+# Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns
+
+Under this two-year activity with Internews and the International Foundation for Electoral Systems (IFES), DevLab@Penn is developing a system to detect reporting on anti-corruption campaigns and classify them as Legitimate, Superficial, and Fabricated. Specifically, we will draw on the Machine Learning for Peace project’s infrastructure, which scrapes articles from more than 350 high-quality domestic media outlets based across 60 countries and uses large language models to detect reporting on corruption-related legal measures (including arrest, legal actions, purges, and raids). Under this project, DevLab will identify anti-corruption campaigns by detecting large increases in reporting on corruption-related legal measures. DevLab will then measure the extent to which legal measures indicate genuine or politically-motivated campaigns.
